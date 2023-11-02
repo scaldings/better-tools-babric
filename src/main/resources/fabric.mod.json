@@ -1,16 +1,18 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
-  "version": "${version}",
+  "id": "bettertools",
+  "version": "1.1",
 
-  "name": "Example Mod",
-  "description": "This mod aims to help new BTA modders.",
+  "name": "BetterTools",
+	"icon": "assets/bettertools/icon.png",
+  "description": "This mod adds more useful tools to BTA.",
   "authors": [
-    "Turnip Labs"
+    "scaldings"
   ],
   "contact": {
-    "homepage": "",
-    "sources": ""
+    "homepage": "https://github.com/scaldings/",
+    "sources": "https://github.com/scaldings/better-tools-babric",
+		"issues": "https://github.com/scaldings/better-tools-babric/issues"
   },
 
   "license": "CC0-1.0",
@@ -18,11 +20,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-        "turniplabs.examplemod.ExampleMod"
+        "scaldings.bettertools.BetterTools"
     ]
   },
   "mixins": [
-      "examplemod.mixins.json"
+		"bettertools.mixins.json"
   ],
 
   "depends": {

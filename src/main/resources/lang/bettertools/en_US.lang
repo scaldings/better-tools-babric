@@ -1,0 +1,83 @@
+item.bettertools.reinforced_diamond_sword.name = Reinforced Diamond Sword
+item.bettertools.reinforced_diamond_sword.desc = A diamond tool with a strong handle
+
+item.bettertools.reinforced_diamond_shovel.name = Reinforced Diamond Shovel
+item.bettertools.reinforced_diamond_shovel.desc = A diamond tool with a strong handle
+
+item.bettertools.reinforced_diamond_pickaxe.name = Reinforced Diamond Pickaxe
+item.bettertools.reinforced_diamond_pickaxe.desc = A diamond tool with a strong handle
+
+item.bettertools.reinforced_diamond_axe.name = Reinforced Diamond Axe
+item.bettertools.reinforced_diamond_axe.desc = A diamond tool with a strong handle
+
+item.bettertools.reinforced_diamond_hoe.name = Reinforced Diamond Hoe
+item.bettertools.reinforced_diamond_hoe.desc = A diamond tool with a strong handle
+
+item.bettertools.reinforced_diamond_helmet.name = Reinforced Diamond Helmet
+item.bettertools.reinforced_diamond_helmet.desc = A piece of diamond armor, but tougher.
+
+item.bettertools.reinforced_diamond_chestplate.name = Reinforced Diamond Chestplate
+item.bettertools.reinforced_diamond_chestplate.desc = A piece of diamond armor, but tougher.
+
+item.bettertools.reinforced_diamond_leggings.name = Reinforced Diamond Leggings
+item.bettertools.reinforced_diamond_leggings.desc = A piece of diamond armor, but tougher.
+
+item.bettertools.reinforced_diamond_boots.name = Reinforced Diamond Boots
+item.bettertools.reinforced_diamond_boots.desc = A piece of diamond armor, but tougher.
+
+item.bettertools.gilded_steel_sword.name = Gilded Steel Sword
+item.bettertools.gilded_steel_sword.desc = A steel tool covered with a touch of gold
+
+item.bettertools.gilded_steel_shovel.name = Gilded Steel Shovel
+item.bettertools.gilded_steel_shovel.desc = A steel tool covered with a touch of gold
+
+item.bettertools.gilded_steel_pickaxe.name = Gilded Steel Pickaxe
+item.bettertools.gilded_steel_pickaxe.desc = A steel tool covered with a touch of gold
+
+item.bettertools.gilded_steel_axe.name = Gilded Steel Axe
+item.bettertools.gilded_steel_axe.desc = A steel tool covered with a touch of gold
+
+item.bettertools.gilded_steel_hoe.name = Gilded Steel Hoe
+item.bettertools.gilded_steel_hoe.desc = A steel tool covered with a touch of gold
+
+item.bettertools.gilded_steel_helmet.name = Gilded Steel Helmet
+item.bettertools.gilded_steel_helmet.desc = A piece of steel armor with gold properties
+
+item.bettertools.gilded_steel_chestplate.name = Gilded Steel Chestplate
+item.bettertools.gilded_steel_chestplate.desc = A piece of steel armor with gold properties
+
+item.bettertools.gilded_steel_leggings.name = Gilded Steel Leggings
+item.bettertools.gilded_steel_leggings.desc = A piece of steel armor with gold properties
+
+item.bettertools.gilded_steel_boots.name = Gilded Steel Boots
+item.bettertools.gilded_steel_boots.desc = A piece of steel armor with gold properties
+
+item.bettertools.gilded_diamond_sword.name = Gilded Diamond Sword
+item.bettertools.gilded_diamond_sword.desc = A diamond tool covered with a touch of gold
+
+item.bettertools.gilded_diamond_shovel.name = Gilded Diamond Shovel
+item.bettertools.gilded_diamond_shovel.desc = A diamond tool covered with a touch of gold
+
+item.bettertools.gilded_diamond_pickaxe.name = Gilded Diamond Pickaxe
+item.bettertools.gilded_diamond_pickaxe.desc = A diamond tool covered with a touch of gold
+
+item.bettertools.gilded_diamond_axe.name = Gilded Diamond Axe
+item.bettertools.gilded_diamond_axe.desc = A diamond tool covered with a touch of gold
+
+item.bettertools.gilded_diamond_hoe.name = Gilded Diamond Hoe
+item.bettertools.gilded_diamond_hoe.desc = A diamond tool covered with a touch of gold
+
+item.bettertools.gilded_diamond_helmet.name = Gilded Diamond Helmet
+item.bettertools.gilded_diamond_helmet.desc = A piece of diamond armor with gold properties
+
+item.bettertools.gilded_diamond_chestplate.name = Gilded Diamond Chestplate
+item.bettertools.gilded_diamond_chestplate.desc = A piece of diamond armor with gold properties
+
+item.bettertools.gilded_diamond_leggings.name = Gilded Diamond Leggings
+item.bettertools.gilded_diamond_leggings.desc = A piece of diamond armor with gold properties
+
+item.bettertools.gilded_diamond_boots.name = Gilded Diamond Boots
+item.bettertools.gilded_diamond_boots.desc = A piece of diamond armor with gold properties
+
+tile.bettertools.smithing_table.name = Smithing Table
+tile.bettertools.smithing_table.desc = Helps combine tools

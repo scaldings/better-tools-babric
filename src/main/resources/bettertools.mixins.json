@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "scaldings.bettertools.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MinecraftMixin",
+    "EntityPlayerMixin",
+    "EntityPlayerSPMixin",
+    "EntityPlayerMPMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
