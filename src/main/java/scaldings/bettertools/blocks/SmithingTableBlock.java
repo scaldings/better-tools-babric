@@ -7,8 +7,8 @@ import net.minecraft.core.world.World;
 import scaldings.bettertools.interfaces.IEntityPlayer;
 
 public class SmithingTableBlock extends Block {
-	public SmithingTableBlock(String key, int id) {
-		super(key, id, Material.wood);
+	public SmithingTableBlock(String key, int id, Material material) {
+		super(key, id, material);
 	}
 
 	@Override
