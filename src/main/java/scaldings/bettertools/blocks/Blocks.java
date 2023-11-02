@@ -1,6 +1,5 @@
 package scaldings.bettertools.blocks;
 
-import net.minecraft.client.sound.block.BlockSound;
 import net.minecraft.client.sound.block.BlockSounds;
 import net.minecraft.core.block.Block;
 import net.minecraft.core.block.material.Material;
@@ -9,7 +8,10 @@ import scaldings.bettertools.BetterTools;
 import turniplabs.halplibe.helper.BlockBuilder;
 
 public class Blocks {
-	public static int availableID = 1301;
+	private static int blockID(String configItemName) {
+		return BetterTools.config.getInt("Block IDs." + configItemName);
+	}
+
 	public static Block smithingTable;
 
 	public static void createBlocks() {
@@ -22,6 +24,6 @@ public class Blocks {
 			.setHardness(3.5f)
 			.setTags(BlockTags.MINEABLE_BY_AXE, BlockTags.FENCES_CONNECT)
 			.setBlockSound(BlockSounds.WOOD)
-			.build(new SmithingTableBlock("smithing_table" , availableID++, Material.wood));
+			.build(new SmithingTableBlock("smithing_table" , blockID("smithing_table"), Material.wood));
 	}
 }
